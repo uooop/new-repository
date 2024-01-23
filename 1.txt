@@ -1,2 +1,3 @@
 "Some changes" 
 "Other changes" 
+"언니 바보"
